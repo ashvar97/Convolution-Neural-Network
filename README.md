@@ -3,14 +3,6 @@
 A modular implementation of Convolutional Neural Networks from scratch, supporting custom architectures for image classification tasks.
 
 
-
-## Features
-- **Customizable CNN Architecture**: Modify layers, activation functions, and hyperparameters.
-- **Pretrained Models Support**: Includes support for **ResNet, VGG, and MobileNet**.
-- **Data Augmentation**: Implements **random cropping, flipping, rotation, and normalization**.
-- **GPU Acceleration**: Optimized for execution on **CUDA-enabled GPUs**.
-- **Visualization Tools**: Supports **training progress monitoring with Matplotlib and TensorBoard**.
-
 ## ✨ Key Features
 
 - **Core CNN Components**:
